@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/sascha/Documents/projects/snake-in-cpp/build",
+  "command": "/usr/bin/c++ -DGL_SILENCE_DEPRECATION -isystem /opt/homebrew/Cellar/raylib/5.5/include -O3 -DNDEBUG -arch arm64 -I/opt/homebrew/Cellar/raylib/5.5/include -o CMakeFiles/main.dir/main.cpp.o -c /Users/sascha/Documents/projects/snake-in-cpp/main.cpp",
+  "file": "/Users/sascha/Documents/projects/snake-in-cpp/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+}
+]
